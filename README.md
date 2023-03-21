@@ -1,2 +1,2 @@
-# max_heap_visualizer
-This is a visualization project of max heap tree.
+# treevisualizer
+Binary Tree, Max Heap, and Binary Search Tree Visualization using HTML, CSS, and Javascript
